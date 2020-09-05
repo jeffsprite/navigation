@@ -1,0 +1,5 @@
+{
+    "git.enabled": true,
+    "git.path": "D:\\System_Tool\\cmder\\vendor\\git-for-windows\\cmd\\git.exe",
+    "terminal.integrated.shell.windows": "D:\\System_Tool\\cmder\\vendor\\git-for-windows\\bin\\bash.exe",
+}
